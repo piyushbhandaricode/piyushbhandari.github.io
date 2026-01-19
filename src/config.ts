@@ -69,23 +69,20 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of Waterloo",
+      degree: "Master of Engineering in Electrical and Computer Engineering",
+      dateRange: "Class of 2020",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "GPA: 3.9/4.0",
+        "Certificate in Leadership and Technical Project Management from Conrad School of Business and Entrepreneurship",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Guru Gobind Singh Indraprastha University, New Delhi",
+      degree: "Bachelor of Technology in Electronics and Communication Engineering",
+      dateRange: "Class of 2017",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "First Class with Distinction",
       ],
     },
   ],
